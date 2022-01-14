@@ -219,7 +219,7 @@ Assigned IP,Hostname,MAC Address,Description,DHCP Range,Static Range
 192.168.1.216,rustDev,future,Bridged interface for antlet to LAN over br1,,
 192.168.1.217,picoDev,52:54:00:b0:8f:b5,Bridged interface for antlet to LAN over br2,,
 192.168.1.218,linuxSysDev,future,Bridged interface for antlet to LAN over br3,,
-192.168.1.219,RESERVED,future,Reserved for future antlet VM bridged to LAN,,
+192.168.1.219,KiCAD-VM,52:54:00:65:90:c3,Bridged interface for antlet to LAN over br0,,
 192.168.1.220,RESERVED,future,Reserved for future antlet VM bridged to LAN,,
 192.168.1.221,RESERVED,future,Reserved for future antlet VM bridged to LAN,,
 192.168.1.222,RESERVED,future,Reserved for future antlet VM bridged to LAN,,
